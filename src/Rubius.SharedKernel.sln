@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rubius.SharedKernel.Domain", "Rubius.SharedKernel.Domain\Rubius.SharedKernel.Domain.csproj", "{F03A7740-B268-46F0-B8A2-2FE8F69E2957}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rubius.SharedKernel.Application", "Rubius.SharedKernel.Application\Rubius.SharedKernel.Application.csproj", "{2385FC33-A949-4D01-9AC7-ADD88F291830}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rubius.SharedKernel.Infrastructure", "Rubius.SharedKernel.Infrastructure\Rubius.SharedKernel.Infrastructure.csproj", "{76205E3B-B6FD-460B-BC57-478BE0F52283}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rubius.SharedKernel.WebApi", "Rubius.SharedKernel.WebApi\Rubius.SharedKernel.WebApi.csproj", "{71B868E3-4F34-4592-B33E-2CB14CC074A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F03A7740-B268-46F0-B8A2-2FE8F69E2957}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F03A7740-B268-46F0-B8A2-2FE8F69E2957}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F03A7740-B268-46F0-B8A2-2FE8F69E2957}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F03A7740-B268-46F0-B8A2-2FE8F69E2957}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2385FC33-A949-4D01-9AC7-ADD88F291830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2385FC33-A949-4D01-9AC7-ADD88F291830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2385FC33-A949-4D01-9AC7-ADD88F291830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2385FC33-A949-4D01-9AC7-ADD88F291830}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76205E3B-B6FD-460B-BC57-478BE0F52283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76205E3B-B6FD-460B-BC57-478BE0F52283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76205E3B-B6FD-460B-BC57-478BE0F52283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76205E3B-B6FD-460B-BC57-478BE0F52283}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71B868E3-4F34-4592-B33E-2CB14CC074A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71B868E3-4F34-4592-B33E-2CB14CC074A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71B868E3-4F34-4592-B33E-2CB14CC074A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71B868E3-4F34-4592-B33E-2CB14CC074A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
