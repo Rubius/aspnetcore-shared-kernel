@@ -1,1 +1,1 @@
-# dotnet-shared-kernel
+# Rubius Shared Kernel
